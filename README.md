@@ -77,6 +77,7 @@ Average US Unemployment Rate (1976 - 2024)
 | North Dakota        | 3.682292              |
 | South Dakota        | 3.544965              |
 | Nebraska            | 3.399306              |
+
 *This table starts with the 5 states having the highest unemployment rates and concludes with the 5 states having the lowest unemployment rates, based to the FRED.*
 
 ### 2. February 2024 Unemployment Rate 
@@ -142,12 +143,13 @@ Throughout this adventure, I've turbocharged my Data Analytic toolkit with some 
 
 ### Insights
 The comprehensive analysis of the US job market from 1976 to 2024 highlights significant trends and outliers in unemployment rates across various states, offering a nuanced understanding of the labor market's dynamics over nearly five decades. Here are the main findings summarized:
-- **Varying Unemployment Rates:** The data illustrates a broad spectrum of unemployment rates across the US, ranging from a low of 1.7% to a high of 24.7%, with an average rate of 5.9% across all states. This wide range underscores the economic volatility and the differential impact of national and global events on employment across states.
--**Impact of the Covid-19 Pandemic:** The pandemic notably disrupted the job market, causing a significant spike in unemployment rates across all states. This period, termed the "Corona Peak," marked a sharp deviation from the norm, although signs of recovery and a return to pre-pandemic levels began to emerge by early 2022.
--**Outlier Analysis:** Puerto Rico was identified as a notable outlier, experiencing the highest unemployment rates. However, data from the 2020s suggest a trend of convergence, with Puerto Rico's unemployment rate gradually aligning more closely with those of other states.
--**February 2024 Snapshot:** As of February 2024, Puerto Rico remained at the higher end of the unemployment spectrum with a rate of 5.7%, while North and South Dakota boasted the lowest rates, at 2.0% and 2.1% respectively, highlighting regional disparities in economic recovery and job market stability.
--**Unemployment vs. Participation Rate Dynamics:** The analysis reveals a heterogeneity in the relationship between unemployment and participation rates across states since 2020. Some states exhibited converging trends in these rates, suggesting a balanced economic recovery, while others showed diverging trends, indicating disparities in job market participation and employment opportunities.
--**State-Specific Trends:** A closer examination of individual states revealed patterns of both heterogeneity and homogeneity in unemployment and participation rates, indicating a complex interplay between local economic conditions, labor market policies, and national economic trends.
+- **Unemployment Range:** US unemployment rates varied widely from 1.7% to 24.7%, averaging 5.9%, reflecting economic fluctuations and the impact of various events on job markets.
+- **Covid-19 Impact:** The pandemic caused a notable spike in unemployment, termed the **"Corona Peak,"** with a gradual return to pre-pandemic levels by early 2022.
+- **Puerto Rico's Outlier Status:** Historically high unemployment rates in Puerto Rico began to align more with other states in the 2020s.
+- **February 2024 Update:** Puerto Rico's unemployment rate was still high at 5.7%, while North and South Dakota reported the lowest rates (2.0% and 2.1%).
+- **Unemployment vs. Participation Dynamics:** Since 2020, variations in unemployment and participation rates across states highlighted diverse economic recovery patterns.
+- **Regional Economic Insights:** Analysis of state-specific data revealed varying patterns in unemployment and participation rates, suggesting different local economic and policy impacts.
+
 
 This analysis offers critical insights into the resilience and challenges of the US job market, highlighting the importance of tailored policy interventions to address regional disparities and support a sustainable economic recovery across all states.
 
