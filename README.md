@@ -20,7 +20,6 @@ For my deep dive into the econimic data analysis of the US job market, I harness
 - **Github**
 
 # The Analysis
-Each query for this project aimed at investigating specific aspects of the data analyst job market.
 
 ### 1. Pull & Clean Data
 To clean and manipulate the unemployment rate data from the US job market, I filtered the monthly, seasonally adjusted unemployment rate for all states. Then, I concatonated the different data by looping overy every state and removed non-relevant columns and NANs. To adjust the title column, I replaced some text and applied list comprehension to rename column names.
